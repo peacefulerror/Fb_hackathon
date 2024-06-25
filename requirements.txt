@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+geopy
+jupyter
+tensorflow
+gym
+pyspark
+kafka-python
